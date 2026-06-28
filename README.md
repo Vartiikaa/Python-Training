@@ -1,84 +1,61 @@
-# Python Training Projects
+# Python Training Projects 🚀
 
 ## Overview
 
-This repository contains the mini projects and practice programs completed during my Python Training. These projects helped me understand Python fundamentals, data structures, functions, loops, dictionaries, and problem-solving techniques.
+This repository contains mini projects and practice programs completed during my Python Training. These projects helped me strengthen my understanding of Python fundamentals, data structures, file handling, OOP, and problem-solving skills.
 
-## Mini Projects
+## Projects Included
 
-### 1. Number Guessing Game
+* Number Guessing Game
+* Student Management System
+* Library Management System
+* ATM Machine System
+* Basic Calculator
+* Word Analyzer
+* Contact Book
+* Shopping Cart System
+* Word Frequency Counter
+* Expense Tracker
+* Student Grade Manager
+* Password Generator & Validator
+* OOP Grade Management System
+* Bank Account System
+* Employee Payroll System
+* Log File Analyzer
 
-A simple game where the user tries to guess a randomly generated number.
+## Concepts Covered
 
-**Concepts Used:**
-
-* Variables
-* Loops
-* Conditional Statements
-* Random Module
-
-### 2. Student Management System
-
-A program to manage student records by adding, viewing, searching, and deleting student information.
-
-**Concepts Used:**
-
-* Lists
-* Dictionaries
-* Tuples
-* Sets
-* List Comprehensions
-* Dictionary Comprehensions
-
-### 3. Library Management System
-
-A menu-driven application to manage library books.
-
-**Features:**
-
-* Add Book
-* View Books
-* Search Book
-* Remove Book
-
-**Concepts Used:**
-
-* Lists
+* Python Fundamentals
+* Loops & Conditional Statements
 * Functions
-* Dictionaries
-* Loops
-
-### 4. Bank Management System
-
-A simple banking application that allows users to:
-
-* Check Balance
-* Deposit Money
-* Withdraw Money
-* View Updated Balance
-
-**Concepts Used:**
-
-* Variables
-* Functions
-* Dictionaries
-* Loops
+* Lists, Tuples, Sets & Dictionaries
+* File Handling
+* Exception Handling
+* CSV Processing
+* Object-Oriented Programming (OOP)
+* Inheritance & Polymorphism
+* Regular Expressions (Regex)
 
 ## Technologies Used
 
-* Python 3
+* Python 3.x
+* CSV Module
+* Random Module
+* String Module
+* Regular Expressions (re)
 
 ## Learning Outcomes
 
-Through these projects, I learned:
+Through these projects, I gained hands-on experience in:
 
-* Python Programming Fundamentals
-* Data Structures (Lists, Tuples, Sets, Dictionaries)
-* Functions and Modular Programming
-* Loops and Control Flow
-* Menu-Driven Applications
-* Problem Solving and Logic Building
+* Problem Solving & Logic Building
+* Data Structures
+* Modular Programming
+* File Processing
+* OOP Concepts
+* Real-World Python Applications
 
 ## Author
 
 **Vartika Sharma**
+B.Tech (AIML) | Python Enthusiast
